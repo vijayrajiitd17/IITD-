@@ -1,2 +1,2 @@
-# IITD-
+# IITD
 problem solving and algorithm
